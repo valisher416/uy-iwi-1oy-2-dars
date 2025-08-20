@@ -1,7 +1,5 @@
 #home{
-background-image: url("../../images/sekwin.1.png");
-background-repeat: no-repeat;
-background-position: center;
+    background-color: black;
 padding-bottom: 80px;
 }
 .home--text{
