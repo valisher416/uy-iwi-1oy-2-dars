@@ -1,0 +1,46 @@
+#brands{
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+.brands--card .brands--cardd{
+  transition: 1.8s;
+}
+
+.brands--cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.brands--card .brands--cardd:hover{
+   transform: scale(1.2);
+}
+.brands--card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 348px;
+    padding: 37px;
+    background-color:rgba(246, 246, 246, 1);
+    border-radius: 22px;
+    cursor: pointer;
+}
+.brands--card h1{
+font-weight: 700px;
+font-style: Bold;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+color: black;
+padding-bottom: 10px;
+}
+.brands--card p{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(139, 142, 153, 1);
+
+}

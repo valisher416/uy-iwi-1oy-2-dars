@@ -1,0 +1,11 @@
+.fot{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fot h1{
+    color: white;
+font-style: Medium;
+font-size: 16px;
+    text-align: center;
+}

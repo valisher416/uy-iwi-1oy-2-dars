@@ -1,0 +1,33 @@
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: transparent;
+    z-index: 1;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar--title{
+    display: flex;
+    align-items: center;
+    gap: 27px;
+}
+.navbar--title li a{
+    color: white;
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(139, 142, 153, 1);
+}
+.navbar--card{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}

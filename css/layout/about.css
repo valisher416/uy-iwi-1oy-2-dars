@@ -1,0 +1,64 @@
+#about{
+    padding-top: 40px;
+    background-color: white;
+    padding-bottom: 100px;
+}
+.about--h1{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: rgba(56, 88, 214, 1);
+}
+.about--h2{
+    color: rgba(30, 29, 29, 1);
+font-weight: 700;
+font-style: Bold;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 10px;
+}
+.about-cord{
+    display: flex;
+    background-color: rgb(234, 229, 229);
+    gap: 27px;
+    width: 520px;
+height: 220px;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+border-radius: 10px;
+
+}
+.about-cord h4{
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+padding-top: 38px;
+}
+.about-cord p{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(139, 142, 153, 1);
+padding-top: 5px;
+padding-bottom: 7px;
+}
+.about-cordd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+.rasm{
+    padding-top: 40px;
+    padding-left: 480px;
+}
