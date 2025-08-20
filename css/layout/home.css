@@ -69,3 +69,12 @@ letter-spacing: 0%;
     border-radius: 10px;
     cursor: pointer;
 }
+.home-rasm img{
+        transition: 2s;
+
+}
+.rsimlar:hover{
+    transform: scale(1.1);
+   
+    
+}

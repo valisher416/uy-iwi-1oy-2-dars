@@ -57,3 +57,12 @@ color: rgba(139, 142, 153, 0.7);
     position: relative;
 
 }
+.subscribe img{
+    transition: 2s;
+}
+.subscribe:hover{
+    img{
+transform: scale(1.2);
+
+    }
+}
